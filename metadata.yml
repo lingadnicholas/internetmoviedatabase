@@ -1,0 +1,14 @@
+---
+:id: 94309735
+:submitters:
+- :name: NIDHI TEJASH PANCHAL
+  :email: nidhipanchal1119@gmail.com
+- :name: NICHOLAS SABINO LINGAD
+  :email: lingadnicholas@ucla.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-10-17 15:29:05.060470000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-10-17 08:29:05.060470000 Z
+:status: processed
+:score: 100.0
